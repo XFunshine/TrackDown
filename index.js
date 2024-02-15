@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="YOUR URL";
+var hostURL="https://trackdown-2efcf9816881.herokuapp.com/";
 //TOGGLE for Shorters
 var use1pt=false;
 
